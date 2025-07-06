@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\models\\estado_asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:models\\estado_asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:models\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\models\\tipo_contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:models\\tipo_contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\models\\estado_personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:models\\estado_personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|c:\\users\\hansl\\documents\\trabajo\\especializaci\u00F3n\\tareas - trabajo\\apisystemasistencia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98645BF6-C295-4683-9023-0A0C35E7D752}|ApiSystemAsistencia.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Asistencia.cs",
+              "RelativeDocumentMoniker": "Models\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Asistencia.cs",
+              "RelativeToolTip": "Models\\Asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:26:30.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estado_asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Estado_asistencia.cs",
+              "RelativeDocumentMoniker": "Models\\Estado_asistencia.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Estado_asistencia.cs",
+              "RelativeToolTip": "Models\\Estado_asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:26:03.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Personal.cs",
+              "RelativeDocumentMoniker": "Models\\Personal.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Personal.cs",
+              "RelativeToolTip": "Models\\Personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:25:06.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tipo_contrato.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Tipo_contrato.cs",
+              "RelativeDocumentMoniker": "Models\\Tipo_contrato.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Tipo_contrato.cs",
+              "RelativeToolTip": "Models\\Tipo_contrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:24:23.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estado_personal.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Estado_personal.cs",
+              "RelativeDocumentMoniker": "Models\\Estado_personal.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Estado_personal.cs",
+              "RelativeToolTip": "Models\\Estado_personal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:23:52.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:23:23.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T03:22:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hansl\\Documents\\Trabajo\\Especializaci\u00F3n\\Tareas - trabajo\\ApiSystemAsistencia\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T03:22:22.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
